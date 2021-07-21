@@ -7,7 +7,7 @@
 			heroImageUrl: "https://i.ibb.co/bmzzjTR/new-dp.png",
 			Text: "Going with a rusting life is my motto and everything that I do prevails",
 			joinMonth: "Dec",
-			joinYear: "2020",
+			joinYear: "2019",
 			slug: "karan",
 		},
 		{
@@ -15,8 +15,17 @@
 			designation: "Developer | AI Engineer",
 			heroImage: "",
 			heroImageUrl: "https://avatars.githubusercontent.com/u/54014069?v=4",
-			Text: "AI & ML Enthusiast",
+			Text: "I can make your data into stories",
 			joinMonth: "Dec",
+			joinYear: "2019",
+		},
+		{
+			name: "Vishal ",
+			designation: "Developer | AI Engineer",
+			heroImage: "",
+			heroImageUrl: "https://i.ibb.co/6BqkMSS/photo-2021-07-21-20-14-37.jpg",
+			Text: "AI & ML Enthusiast (SS)",
+			joinMonth: "Jan",
 			joinYear: "2020",
 		},
 	];
@@ -69,7 +78,7 @@
 	}
 	.row {
 		max-width: 900px;
-		margin: 50px auto 0;
+		margin: 50px 50px 0;
 	}
 	.card {
 		float: left;
