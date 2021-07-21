@@ -32,7 +32,7 @@
 			name: "Sivant",
 			designation: "FULL STACK DEVELOPER | ML ENGINEER",
 			heroImage: "",
-			heroImageUrl: "https://i.ibb.co/yqd6yWd/IMG-20190816-113221.jpg",
+			heroImageUrl: "https://i.ibb.co/rHvnWWT/IMG-20190816-113221-min.jpg",
 			Text: "Think higher than what you can and do higher than what you think.",
 			joinMonth: "Dec",
 			joinYear: "2020",
