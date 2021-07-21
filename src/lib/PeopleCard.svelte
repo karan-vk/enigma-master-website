@@ -2,17 +2,17 @@
 	export let people = [
 		{
 			name: "Karan",
-			designation: "Backend Dev | AI Engineer",
+			designation: "SWE | AI RESEARCHER | DEVOPS ENG",
 			heroImage: "",
 			heroImageUrl: "https://i.ibb.co/bmzzjTR/new-dp.png",
 			Text: "Going with a rusting life is my motto and everything that I do prevails",
 			joinMonth: "Dec",
 			joinYear: "2019",
-			slug: "karan",
+			slug: "https://karanvk.gq/",
 		},
 		{
 			name: "Sathish",
-			designation: "Developer | AI Engineer",
+			designation: "DATA SCIENTIST | ML ENGINEER ",
 			heroImage: "",
 			heroImageUrl: "https://avatars.githubusercontent.com/u/54014069?v=4",
 			Text: "I can make your data into stories",
@@ -24,9 +24,19 @@
 			designation: "Developer | AI Engineer",
 			heroImage: "",
 			heroImageUrl: "https://i.ibb.co/6BqkMSS/photo-2021-07-21-20-14-37.jpg",
-			Text: "AI & ML Enthusiast (SS)",
+			Text: "AI & ML Enthusiast",
 			joinMonth: "Jan",
 			joinYear: "2020",
+		},
+		{
+			name: "Sivant",
+			designation: "FULL STACK DEVELOPER | ML ENGINEER",
+			heroImage: "",
+			heroImageUrl: "https://i.ibb.co/yqd6yWd/IMG-20190816-113221.jpg",
+			Text: "Think higher than what you can and do higher than what you think.",
+			joinMonth: "Dec",
+			joinYear: "2020",
+			slug: "sivant",
 		},
 	];
 </script>
