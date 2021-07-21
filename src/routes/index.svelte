@@ -177,4 +177,10 @@
 			transform: translateY(0) rotate(0);
 		}
 	}
+
+	@media (max-width: 768px) {
+		.heroSection h1 span {
+			font-size: 0.8em;
+		}
+	}
 </style>

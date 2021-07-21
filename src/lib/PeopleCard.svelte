@@ -82,7 +82,7 @@
 	}
 	.card {
 		float: left;
-		padding: 0 1.7rem;
+		padding: 0 1.7rem 1.7em 1.7rem;
 		width: 50%;
 	}
 
@@ -193,5 +193,29 @@
 	.example-2 .button:hover::after {
 		transform: translate(5px, -50%);
 		opacity: 1;
+	}
+
+	@media (max-width: 768px) {
+		.card {
+			width: 50%;
+			padding: 1.7em;
+		}
+
+		.row {
+			/* max-width: 900px; */
+			margin: 0;
+		}
+	}
+
+	@media (max-width: 426px) {
+		.card {
+			width: 100%;
+			padding: 1.7em;
+		}
+
+		.row {
+			/* max-width: 900px; */
+			margin: 0;
+		}
 	}
 </style>
